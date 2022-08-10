@@ -6,11 +6,11 @@
   <b> 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐁𝐎𝐓</b>
 </h1>
 
-[![Stars](https://img.shields.io/github/stars/MrMKN/Professor-Bot?style=flat-square&color=yellow)](https://github.com/MrMKN/Professor-Bot/stargazers)
-[![Forks](https://img.shields.io/github/forks/MrMKN/Professor-Bot?style=flat-square&color=orange)](https://github.com/MrMKN/Professor-Bot/fork)
-[![Size](https://img.shields.io/github/repo-size/MrMKN/Professor-Bot?style=flat-square&color=green)](https://github.com/MrMKN/Professor-Bot/)   
+[![Stars](https://img.shields.io/github/stars/MrMKN/Professor-Bot?style=flat-square&color=yellow)](https://github.com/AFxSU/PROFESSOR-BOT/argazers)
+[![Forks](https://img.shields.io/github/forks/MrMKN/Professor-Bot?style=flat-square&color=orange)](https://github.com/AFxSU/PROFESSOR-BOT/fork)
+[![Size](https://img.shields.io/github/repo-size/MrMKN/Professor-Bot?style=flat-square&color=green)](https://github.com/AFxSU/PROFESSOR-BOT/)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/EvaMaria)   
-[![Contributors](https://img.shields.io/github/contributors/MrMKN/Professor-Bot?style=flat-square&color=green)](https://github.com/MrMKN/Professor-Bot/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/MrMKN/Professor-Bot?style=flat-square&color=green)](https://github.com/AFxSU/PROFESSOR-BOT/graphs/contributors)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
 [![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
 
@@ -54,7 +54,7 @@
 
 ## Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/Professor-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AFxSU/PROFESSOR-BOT)
 
 ## Commands
 ```
@@ -88,18 +88,18 @@ broadcast - to broadcast a message to all Eva Maria users
 ```
 
 ## Original Repo
-*  [Eva Maria](https://github.com/EvamariaTG/EvaMaria)
+*  [Eva Maria](https://github.com/AFxSU/PROFESSOR-BOT)
 
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
 
 ## Spacial Thanks To
 
-* [⚡️𝐀𝐚𝐝𝐡𝐢⚡️](https://github.com/Aadhi000)
+* [AFSU](https://t.me/at3botsupport)
 
 ## TELAGRAM SUPPORT 
 
-* [![MKN BOTZ](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/mkn_bots_updates)
+* [![AFSU BOTZ](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/at3botsupport)
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
