@@ -23,10 +23,10 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢', url=f'https://t.me/{SUPPORT_CHAT}')
+                InlineKeyboardButton('🛑 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 🛑', url=f'https://t.me/at3botsupport')
             ],
             [
-                InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿 ℹ️', url=f"https://t.me/{temp.U_NAME}?start=help")
+                InlineKeyboardButton('💠 𝙷𝙴𝙻𝙿 💠', url=f"https://t.me/{temp.U_NAME}?start=help")
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -45,10 +45,10 @@ async def start(client, message):
             InlineKeyboardButton("➕️ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ➕️", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton("🔍 𝚂𝙴𝙰𝚁𝙲𝙷 🔍", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢", url="https://t.me/mkn_bots_updates")
+            InlineKeyboardButton("🛑 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 🛑", url="https://t.me/at3botsupport")
             ],[      
-            InlineKeyboardButton("ℹ️ 𝙷𝙴𝙻𝙿 ℹ️", callback_data="help"),
-            InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
+            InlineKeyboardButton("💠 𝙷𝙴𝙻𝙿 💠", callback_data="help"),
+            InlineKeyboardButton("🍃 𝙰𝙱𝙾𝚄𝚃 🍃", callback_data="about")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)      
         await message.reply_chat_action("Typing")
@@ -90,10 +90,10 @@ async def start(client, message):
             InlineKeyboardButton("➕️ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ➕️", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton("🔍 𝚂𝙴𝙰𝚁𝙲𝙷 🔍", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢", url="https://t.me/mkn_bots_updates")
+            InlineKeyboardButton("🛑 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 🛑", url="https://t.me/at3botsupport")
             ],[      
-            InlineKeyboardButton("ℹ️ 𝙷𝙴𝙻𝙿 ℹ️", callback_data="help"),
-            InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
+            InlineKeyboardButton("💠 𝙷𝙴𝙻𝙿 💠", callback_data="help"),
+            InlineKeyboardButton("🍃 𝙰𝙱𝙾𝚄𝚃 🍃", callback_data="about")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)          
         await message.reply_chat_action("Typing")
