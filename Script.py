@@ -22,7 +22,6 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : 𝚅1.0.43 [𝙼𝙰𝙹𝙾𝚁]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- This is a  <a href=https://github.com/EvamariaTG/EvaMaria>Eva Mari</a> clone Project
 - All Creditz ❣️ <a href=https://t.me/AFxSU</a> ❣️ nanban 🔥🔥
 - original source code - <a href=https://t.me/httpsgithubafxsubot>AFSU-Extra-Features</a> 
 
