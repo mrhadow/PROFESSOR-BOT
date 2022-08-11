@@ -1,6 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥+𝗕𝗢𝗧!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+AFSU+Bot!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+TEAM+AT3MOVIES!;A+single+Tg+autofiltter+Bot!)</p>
 <p align="center">
-  <img src="https://telegra.ph/file/8c2c624fd1e5fd02cc33d.jpg" alt="MKN BOTZ LOGO">
+  <img src="https://telegra.ph/file/8c2c624fd1e5fd02cc33d.jpg" alt="AFSU BOTZ LOGO">
 </p>
 <h1 align="center">
   <b> AFSU-BOT</b>
