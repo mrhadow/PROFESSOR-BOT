@@ -22,7 +22,7 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : 𝚅1.0.43 [𝙼𝙰𝙹𝙾𝚁]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- All Creditz ❣️ <a href=https://t.me/Crazy_Lolan</a>❣️ nanban 🔥🔥
+- All Creditz ❣️ <a href=https://t.me/Crazy_Lolan>❣️nanban🔥</a>
 - original source code - <a href=https://t.me/httpsgithubafxsubot>AFSU-Extra-Features</a> 
 
 - 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://t.me/httpsgithubafxsubot>AFSU-𝐁𝐎𝐓</a>
